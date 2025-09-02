@@ -1,4 +1,4 @@
-# score-distribution-matching
+# Synthesized Data Selection via Score Distribution Matching for Te Reo Māori Automatic Speech Recognition
 
 This repo holds the codes of paper: "Synthesized Data Selection via Score Distribution Matching for Te Reo Māori Automatic Speech Recognition".
 https://doi.org
